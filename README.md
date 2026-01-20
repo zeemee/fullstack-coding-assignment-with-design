@@ -1,4 +1,4 @@
-# Fullstack Developer Code Sample Project
+# Fullstack Coding Assignment
 
 ### Purpose
 
